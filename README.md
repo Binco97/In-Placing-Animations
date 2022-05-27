@@ -1,5 +1,5 @@
 # In Placing Animations Tutorial
-This is a guide to transform `fbx` animations collections with root motion integrated into in-place animations using blender and apply them back to a unity charachter.
+This is a guide to transform `fbx` animations collections with root motion integrated into in-place animations using blender and apply them back to a unity character.
 
 ## Step 1: Import the Animation Collection
 1. Open blender and create a generic scene, then delete the default cube along with camera and lightning source.
